@@ -1,0 +1,15 @@
+{
+  "name": "mi-proyecto-firebase",
+  "version": "1.0.0",
+  "description": "Proyecto con inicio de sesion y superusuarios",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^11.0.0"
+  }
+}
